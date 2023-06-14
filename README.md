@@ -27,17 +27,13 @@
 ## OUTPUT:
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119657657/f8579b5a-021b-4042-a56c-cf41ecd3687a)
 
-## Base:
-The base provides stability and support for the entire Delta 3D printer structure. It houses the electronics, power supply, and other components.
+## Base:The base provides stability and support for the entire Delta 3D printer structure. It houses the electronics, power supply, and other components.
 
-## Holder :
-In a Delta 3D printer, the holder may refer to the filament spool holder, which holds the filament spool in place and ensures smooth and controlled feeding of filament into the extruder.
+## Holder :In a Delta 3D printer, the holder may refer to the filament spool holder, which holds the filament spool in place and ensures smooth and controlled feeding of filament into the extruder.
 
-## Rod :
-Delta 3D printers use three vertical rods (typically made of smooth or threaded rods) to form the framework of the printer. These rods provide structural support and guide the movement of the print head assembly.
+## Rod :Delta 3D printers use three vertical rods (typically made of smooth or threaded rods) to form the framework of the printer. These rods provide structural support and guide the movement of the print head assembly.
 
-## Top cover :
-The top cover in a Delta 3D printer serves as a protective enclosure, enclosing the internal components and providing a controlled environment for printing.
+## Top cover :The top cover in a Delta 3D printer serves as a protective enclosure, enclosing the internal components and providing a controlled environment for printing.
 
 ## Top cover frame :
 The top cover frame provides structural support to the top cover and helps maintain its stability.
